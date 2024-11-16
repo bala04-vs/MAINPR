@@ -1,5 +1,5 @@
 .body{
-    background-image: url(../mainproject.html/assests/images/beautiful-frame-with-paint-splashes.jpg);
+    background-image: url(./assests/images/beautiful-frame-with-paint-splashes.jpg);
     background-size: cover;
     height:100vh;
     width:100wh;
@@ -7,8 +7,8 @@
     }
   .int {
     
-    border-radius: 2vh;
-    padding:1vh;
+    border-radius: 5px;
+    padding:3px;
     font-family: 'Times New Roman', Times, ;
   
   
@@ -36,9 +36,9 @@
       .submit{
         border-width: 0;
         background-color: rgba(226, 226, 67, 0.918);
-       border-radius: 10vh;
+       border-radius: 15px;
        border-style: dashed;
-       padding: 1vh 5vh;
+       padding: 5px 10px;
        font-family: 'Times New Roman', Times, serif;
        font-size:3vh;
        
@@ -55,13 +55,12 @@
      .field{
        width:20wh;
         height:75vh;
-       padding-top: 1vh;
-      padding-right: 10vh;
-      padding-left:10vh;
+       padding-top:10px;
+      padding-right: 50px;
+      padding-left:25px;
       border-color: #cfda2b;
-      border-radius: 10vh;
+      border-radius: 50px;
       background-color: rgba(0, 0, 0, 0.578);
-      margin-top: 50vh;
   
   
   
@@ -91,11 +90,11 @@
   .field1{
     width:5wh;
      height:55vh;
-    padding-top: 5vh;
-   padding-right: 10vh;
-   padding-left:10vh;
+    padding-top: 10px;
+   padding-right: 20px;
+   padding-left:20px;
    border-color: #cfda2b;
    border-radius: 10vh;
    background-color: rgba(0, 0, 0, 0.578);
-   margin-top: 50vh;
+   margin-top: 100px;
   }
